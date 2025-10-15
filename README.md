@@ -69,3 +69,6 @@ https://client.pritunl.com/
 ![View](./Image/Screenshot%202025-10-15%20003240.png)
 ![View](./Image/Screenshot%202025-10-15%20003342.png)
 ![View](./Image/Screenshot%202025-10-15%20003750.png)
+![View](./Image/Screenshot%20from%202025-10-15%2016-26-02.png)
+![View](./Image/Screenshot%20from%202025-10-15%2016-27-45.png)
+![View](./Image/Screenshot%20from%202025-10-15%2016-28-48.png)
